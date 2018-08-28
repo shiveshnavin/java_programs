@@ -5,32 +5,21 @@ import java.util.Scanner;
 public class Main {
 
 
-    public static class Animal
+    public static abstract class Animal
     {
         int limbs =4;
+        abstract void cute();
          public Animal()
         {
 
 
-            Scanner s=new Scanner(System.in);
-            int itr=s.nextInt();
-            int i=0;
-            while (i<itr){
-
-
-                int seatNo=s.nextInt();
-                String outp="";
-                if(seatNo%6==0) outp=""+(seatNo+1)+" WS";
-                else if(seatNo%5==0) outp=""+(seatNo+3)+" MS";
-                else if(seatNo%4==0) outp=""+(seatNo+6)+" AS";
-                else if(seatNo%3==0)  outp=""+(seatNo+7)+" AS";
-                else if(seatNo%2==0) outp=""+(seatNo+9)+" MS";
-                else outp = "" + (seatNo + 11) + " WS";
-                l(outp);
-
-            }
-
         }
+
+        public void sound()
+        {
+            l(" * sound of * Animal "+getClass().toString());
+        }
+
 
         public Animal(int l)
         {
@@ -44,14 +33,24 @@ public class Main {
 
 
     }
-
     public static class Dog extends Animal{
+
+        void cute() {
+
+        }
 
         public Dog()
         {
             super(3);
             l("Made Dog "+limbs);
         }
+
+
+        public void sound()
+        {
+            l(" * sound of * Dog "+getClass().toString());
+        }
+
 
 
     }
@@ -62,16 +61,10 @@ public class Main {
         {
             super.setLimbs(2);
 
-
-
-
-
-
-
-
-
-
-
+        }
+        public void sound()
+        {
+            l(" * sound of * Pug "+getClass().toString());
         }
 
     }
@@ -89,10 +82,53 @@ public class Main {
     }
     public static void main(String[] args) {
 
-        Main m=new Main();
+        Inherit2 m=new Inherit2();
 
 
-        Animal c=new Animal();
+       /* Animal c=new Dog();
+
+
+        Scanner s=new Scanner(System.in);
+        int itr=s.nextInt();
+        int i=0;
+        while (i<itr){
+
+            int seatNo=s.nextInt();
+            int row=seatNo/6;
+            int fromRow=(seatNo%6);
+
+            if(fromRow!=0)
+                row++;
+            String outp="";
+
+            if(row%2==0)
+            {
+
+                if(fromRow==1 ) outp=""+(seatNo-1)+" WS";
+                else if(fromRow==2) outp=""+(seatNo-3)+" MS";
+                else if(fromRow==3) outp=""+(seatNo-5)+" AS";
+                else if(fromRow==4)  outp=""+(seatNo-7)+" AS";
+                else if(fromRow==5) outp=""+(seatNo-9)+" MS";
+                else outp = "" + (seatNo - 10) + " WS";
+            }
+            else {
+
+
+                if(fromRow==0) outp=""+(seatNo+1)+" WS";
+                else if(fromRow==1) outp=""+(seatNo+11)+" WS";
+                else if(fromRow==2) outp=""+(seatNo+9)+" MS";
+                else if(fromRow==3)  outp=""+(seatNo+7)+" AS";
+                else if(fromRow==4) outp=""+(seatNo+5)+" AS";
+                else if(fromRow==5) outp=""+(seatNo+3)+" MS";
+
+            }
+            i++;
+            l(outp);
+        }
+
+
+*/
+
 
     }
 }
