@@ -82,52 +82,19 @@ public class Main {
     }
     public static void main(String[] args) {
 
-        Inherit2 m=new Inherit2();
+
+        try{
+
+            Sort ms=new InsertSort();
+            ms.sort();
 
 
-       /* Animal c=new Dog();
-
-
-        Scanner s=new Scanner(System.in);
-        int itr=s.nextInt();
-        int i=0;
-        while (i<itr){
-
-            int seatNo=s.nextInt();
-            int row=seatNo/6;
-            int fromRow=(seatNo%6);
-
-            if(fromRow!=0)
-                row++;
-            String outp="";
-
-            if(row%2==0)
-            {
-
-                if(fromRow==1 ) outp=""+(seatNo-1)+" WS";
-                else if(fromRow==2) outp=""+(seatNo-3)+" MS";
-                else if(fromRow==3) outp=""+(seatNo-5)+" AS";
-                else if(fromRow==4)  outp=""+(seatNo-7)+" AS";
-                else if(fromRow==5) outp=""+(seatNo-9)+" MS";
-                else outp = "" + (seatNo - 10) + " WS";
-            }
-            else {
-
-
-                if(fromRow==0) outp=""+(seatNo+1)+" WS";
-                else if(fromRow==1) outp=""+(seatNo+11)+" WS";
-                else if(fromRow==2) outp=""+(seatNo+9)+" MS";
-                else if(fromRow==3)  outp=""+(seatNo+7)+" AS";
-                else if(fromRow==4) outp=""+(seatNo+5)+" AS";
-                else if(fromRow==5) outp=""+(seatNo+3)+" MS";
-
-            }
-            i++;
-            l(outp);
+        }catch(Exception e)
+        {
+            e.printStackTrace();
         }
 
 
-*/
 
 
     }

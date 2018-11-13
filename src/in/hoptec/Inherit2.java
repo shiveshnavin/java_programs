@@ -5,10 +5,12 @@ public class Inherit2 extends Main   {
 
     public interface Tes{
 
+
         final int x=0;
         void print();
 
     }
+
 
     public static  abstract class Set {
 
@@ -17,8 +19,9 @@ public class Inherit2 extends Main   {
               l("Set.Set");
 
           }
-        public void print() {
+        public void print() throws NullPointerException,ArithmeticException{
              l("Set.print");
+             throw new NullPointerException("A");
         }
     }
 
@@ -51,6 +54,11 @@ public class Inherit2 extends Main   {
 
         HasSet ss=new HasSet();
         ss.print();
+
+
+
+
+
     }
 
 
