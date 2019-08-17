@@ -75,7 +75,6 @@ public class Main {
     }
 
 
-
     public static void l(Object s)
     {
         System.out.println(""+s);
@@ -85,10 +84,8 @@ public class Main {
 
         try{
 
-            Sort ms=new InsertSort();
-            ms.sort();
-
-
+            HappyTree ht=new HappyTree(7,"A" );
+            ht.grow();
         }catch(Exception e)
         {
             e.printStackTrace();

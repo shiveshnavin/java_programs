@@ -1,6 +1,8 @@
 package in.hoptec;
 
-public class TreeTest {
+public class Tree {
+
+
 
     public void l(int v)
     {
@@ -12,7 +14,7 @@ public class TreeTest {
     }
 
 
-    public TreeTest()
+    public Tree()
     {
 
         Node parent=new Node(4);
@@ -33,7 +35,7 @@ public class TreeTest {
         if(parent==null)
         {
 
-           return;
+            return;
         }
 
 
@@ -80,6 +82,7 @@ public class TreeTest {
 
 
     }
+
 
 
 

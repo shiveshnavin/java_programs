@@ -4,6 +4,7 @@ public abstract class Sort {
 
 
     public int arr[] ={3,6,84,55,1,94,23,64};
+    public int n=arr.length;
 
     public Sort()
     {
@@ -28,6 +29,7 @@ public abstract class Sort {
             System.out.print(" "+ arr[i++]);
         }
 
+        lg("");
 
     }
 

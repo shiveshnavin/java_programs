@@ -1,6 +1,6 @@
 package in.hoptec;
 
-public class MergeSort extends Sort {
+public class SortMergeSort extends Sort {
 
 
     public void merge  (int arr[],int l,int r,int m)
