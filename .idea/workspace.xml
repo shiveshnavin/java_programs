@@ -64,68 +64,6 @@
   <component name="CoverageViewManager">
     <option name="myElementSize" value="181" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1751166579">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="36" />
-          <entry key="project.open.time.10" value="2" />
-          <entry key="project.open.time.106" value="1" />
-          <entry key="project.open.time.12" value="4" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.20" value="2" />
-          <entry key="project.open.time.21" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.30" value="1" />
-          <entry key="project.open.time.31" value="1" />
-          <entry key="project.open.time.33" value="2" />
-          <entry key="project.open.time.36" value="2" />
-          <entry key="project.open.time.38" value="1" />
-          <entry key="project.open.time.39" value="2" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.40" value="3" />
-          <entry key="project.open.time.41" value="3" />
-          <entry key="project.open.time.42" value="2" />
-          <entry key="project.open.time.44" value="1" />
-          <entry key="project.open.time.45" value="1" />
-          <entry key="project.open.time.48" value="1" />
-          <entry key="project.opened" value="37" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="5" />
-          <entry key="form" value="1" />
-          <entry key="iml" value="1" />
-          <entry key="java" value="161" />
-          <entry key="txt" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="5" />
-          <entry key="GUI_DESIGNER_FORM" value="1" />
-          <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="161" />
-          <entry key="PLAIN_TEXT" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="32" />
-          <entry key="java" value="32019" />
-          <entry key="txt" value="8" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="32019" />
-          <entry key="PLAIN_TEXT" value="40" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
@@ -242,12 +180,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="406" />
-    <option name="y" value="55" />
-    <option name="width" value="1287" />
-    <option name="height" value="696" />
-  </component>
+  <component name="ProjectId" id="1R2RDqnsk7mHLx6IscriGfCrSbS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -295,6 +228,8 @@
   <component name="PropertiesComponent">
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="false" />
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="208" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
