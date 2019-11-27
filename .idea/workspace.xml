@@ -4,6 +4,7 @@
     <list default="true" id="f6468532-5b04-4186-a644-6789bcd7d67f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/in/hoptec/songadt/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/songadt/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/in/hoptec/songadt/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/songadt/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/in/hoptec/songadt/SongPlaylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/songadt/SongPlaylist.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -184,7 +185,7 @@
       <workItem from="1571455488884" duration="310000" />
       <workItem from="1571472812726" duration="822000" />
       <workItem from="1573980544483" duration="2604000" />
-      <workItem from="1574876373102" duration="6304000" />
+      <workItem from="1574876373102" duration="8688000" />
     </task>
     <task id="LOCAL-00001" summary="osrtings">
       <created>1542093121910</created>
@@ -207,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574882142444</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added bits dsad proj : sort working">
+      <created>1574882816161</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1574882816161</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

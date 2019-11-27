@@ -3,11 +3,11 @@ package in.hoptec.songadt;
 public class Node {
 
     public String name;
-    public int dur;
+    public String dur;
 
     Node next,prev;
 
-    public Node(String name, int dur) {
+    public Node(String name, String dur) {
         this.name = name;
         this.dur = dur;
     }

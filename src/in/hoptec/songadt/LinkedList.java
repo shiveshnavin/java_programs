@@ -5,7 +5,7 @@ public class LinkedList {
     private Node head,tail;
     int size;
 
-    public void addSong(String t, int dur)
+    public void addSong(String t, String dur)
     {
         Node song=new Node(t,dur);
         addAtTail(song);
@@ -72,6 +72,7 @@ public class LinkedList {
             node = node.next;
         }
 
+        System.out.println("Deleted song : "+node.name);
         if(node.next!=null)
         {
             node.next.prev=node.prev;
@@ -123,11 +124,11 @@ public class LinkedList {
     public void sortList()
     {
         Node i=head;
-        while(i.next!=null)
+        while(i!=null)
         {
             Node j=i;
             Node small=j;
-            while (j.next!=null)
+            while (j!=null)
             {
                 if(j.name.compareTo(small.name)<0)
                 {
