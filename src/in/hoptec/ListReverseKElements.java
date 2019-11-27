@@ -8,7 +8,7 @@ public class ListReverseKElements {
 
         if (n!=null)
         {
-            int kt= transverseRevUptoK(n.right, K);
+            int kt= transverseRevUptoK(n.next, K);
 
             if(kt<K)
             {
@@ -29,8 +29,8 @@ public class ListReverseKElements {
         Node ptr=root;
         for(int i=1;i<7;i++)
         {
-            ptr.right=new Node(i);
-            ptr=ptr.right;
+            ptr.next =new Node(i);
+            ptr=ptr.next;
         }
 
         transverseRevUptoK(root,3);

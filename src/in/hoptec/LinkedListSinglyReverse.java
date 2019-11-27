@@ -1,0 +1,43 @@
+package in.hoptec;
+
+public class LinkedListSinglyReverse extends LinkedListSingly{
+
+    public LinkedListSinglyReverse() {
+
+
+    }
+
+    public static void main(String[] args) {
+        LinkedListSinglyReverse s=new LinkedListSinglyReverse();
+        s.add(4);
+        s.add(6);
+        s.add(8);
+        s.add(10);
+        s.print();
+        s.reverse();
+        s.print();
+
+    }
+
+    public void reverse()
+    {
+        top=reverse(top,null);
+    }
+
+    public Node reverse(Node cur,Node prev)
+    {
+        Node newHead=null;
+        if(cur.next !=null)
+        {
+            newHead=reverse(cur.next,cur);
+        }
+        else
+        {
+            newHead=cur;
+        }
+        cur.next =prev;
+        return newHead;
+    }
+
+
+}

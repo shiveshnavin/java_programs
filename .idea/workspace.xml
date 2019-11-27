@@ -2,53 +2,82 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6468532-5b04-4186-a644-6789bcd7d67f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/ArrayKLargestElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/ArrayPythagoreanTriplet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/FindAllSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/GCD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/Genric.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/Genric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/GraphBreathFirst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/GraphDepthFirstSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/GraphDijKastra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/LargestElementOnRight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/LastKNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/LinkListNumberSumList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/ListReverseKElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/LongestPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/MatrixSpiral.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/MaxMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/NTimesX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/RaceAroundThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/ReverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/SortBubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/SortInsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/SortMergeSort2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/SortQuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/TestCasearray1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/ThreadSafeExec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/TrapppingRainWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/WeFight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/tmp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/hoptec/LinkedListDoubly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/hoptec/LinkedListDoublyReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/hoptec/LinkedListSingly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/hoptec/LinkedListSinglyReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/hoptec/MatrixChainMultiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/hoptec/SortHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/hoptec/songadt/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/hoptec/songadt/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/hoptec/songadt/SongPlaylist.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/com/intellij/uiDesigner/core/HorizontalInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/com/intellij/uiDesigner/core/LayoutState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/intellij/uiDesigner/core/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/com/intellij/uiDesigner/core/Util.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/com/intellij/uiDesigner/core/VerticalInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/ArrayKLargestElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/ArrayKLargestElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/ArrayPythagoreanTriplet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/ArrayPythagoreanTriplet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/CandidateCode$Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/CandidateCode$House.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/CandidateCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/CandidateCodeScanner$Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/CandidateCodeScanner$House.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/CandidateCodeScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/FindAllSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/FindAllSubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/GCD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/GCD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/GFG$Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/GFG$Graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/GFG.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/GFG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Genric.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Genric.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Graph$Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Graph$Pair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/GraphBreathFirst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/GraphBreathFirst.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/GraphDepthFirstSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/GraphDepthFirstSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/GraphDijKastra.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/GraphDijKastra.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/HappyTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/HappyTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/LargestElementOnRight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/LargestElementOnRight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/LastKNodes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/LastKNodes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/LinkListNumberSumList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/LinkListNumberSumList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/ListReverseKElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/ListReverseKElements.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/in/hoptec/BubbleSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/in/hoptec/Grp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/in/hoptec/InsertSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/in/hoptec/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/in/hoptec/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/SortMergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/MaxMin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/MaxMin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/MinStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/MinStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/NTimesX.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/NTimesX.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Pattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Pattern.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/RaceAroundThread$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/RaceAroundThread$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/ReverseList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/ReverseList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Sort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/SortMergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/SortMergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/SortMergeSort2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/SortMergeSort2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/SortMergeSort2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/SortMergeSort2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestCasearray1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestCasearray1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestClass$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestClass$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestClass$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestClass$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestClass2$Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestClass2$Graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestClass2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestClass2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestClass3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestClass3$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestClass3$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestClass3$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestClass3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestClass3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/ThreadSafeExec$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/ThreadSafeExec$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/ThreadSafeExec$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/ThreadSafeExec$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/ThreadSafeExec.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/ThreadSafeExec.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Threader$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Threader$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Threader$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Threader$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Threader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Threader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Tree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/tmp$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/tmp$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/tmp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/tmp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/in/hoptec/LinkListNumberSumList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/LinkListNumberSumList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/in/hoptec/ListReverseKElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/ListReverseKElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/in/hoptec/MinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/MinStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/in/hoptec/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/in/hoptec/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/SelectSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/in/hoptec/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/in/hoptec/TestClass4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/in/hoptec/TreeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/in/hoptec/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/in/hoptec/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/Tree.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,40 +93,6 @@
   <component name="CoverageViewManager">
     <option name="myElementSize" value="181" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/in/hoptec/tmp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/in/hoptec/WeFight.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/in/hoptec/LinkListNumberSumList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -108,122 +103,12 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>&quot;.&quot;</find>
-      <find>print</find>
-      <find>RE</find>
-      <find>System.out</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>ch</replace>
-      <replace>printf</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/in/hoptec/TestClass2.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/TestClass3.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/TestClass.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/TreePractice.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/BinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/AlienLanguageTranslator.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/MergeSort.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/GCD.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/LastKNodes.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/LongestPalindrom.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/LongestPalindrome.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/LargestElementOnRight.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/RaceAroundThread.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/ReverseList.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/Main.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/FindAllSubstring.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/Genric.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/Genric.form" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/MinStack.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/SelectSort.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/InsertSort.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/Sort.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/MergeSort2.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/TrapppingRainWater.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/NTimesX.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/TestClass4.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/TestCasearray1.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/ThreadSafeExec.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/Graph.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/BreathFirstGraph.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/Grp.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/GraphDepthFirstSearch.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/GraphBreathFirst.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/GraphDijKastra.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/MatrixSpiral.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/MaxMin.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/ArrayKLargestElements.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/QuickSort.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/QuickSort2.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/SortQuickSort.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/ArrayPythagoreanTriplet.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/ListReverseKElements.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/TreeTest.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/Tree.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/TreeBinaryToDoubleLinkList.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/Node.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/LinkListNumberSumList.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/Stack.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/tmp.java" />
-        <option value="$PROJECT_DIR$/src/in/hoptec/WeFight.java" />
-      </list>
-    </option>
   </component>
   <component name="ProjectId" id="1R2RDqnsk7mHLx6IscriGfCrSbS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="JavaTest" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="JavaTest" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="hoptec" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="false" />
@@ -255,9 +140,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WeFight">
-    <configuration name="LinkListNumberSumList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="in.hoptec.LinkListNumberSumList" />
+  <component name="RunManager" selected="Application.SongPlaylist">
+    <configuration name="LinkedListDoublyReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.hoptec.LinkedListDoublyReverse" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -269,8 +154,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListReverseKElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="in.hoptec.ListReverseKElements" />
+    <configuration name="MatrixChainMultiplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.hoptec.MatrixChainMultiplication" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -282,8 +167,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeBinaryToDoubleLinkList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="in.hoptec.TreeBinaryToDoubleLinkList" />
+    <configuration name="SongPlaylist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.hoptec.songadt.SongPlaylist" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.hoptec.songadt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.hoptec.SortHeap" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.hoptec.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.hoptec.Tree" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -308,33 +219,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="in.hoptec.tmp" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="in.hoptec.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.ListReverseKElements" />
-      <item itemvalue="Application.TreeBinaryToDoubleLinkList" />
-      <item itemvalue="Application.tmp" />
-      <item itemvalue="Application.LinkListNumberSumList" />
+      <item itemvalue="Application.MatrixChainMultiplication" />
+      <item itemvalue="Application.Tree" />
+      <item itemvalue="Application.LinkedListDoublyReverse" />
+      <item itemvalue="Application.SortHeap" />
       <item itemvalue="Application.WeFight" />
+      <item itemvalue="Application.SongPlaylist" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SongPlaylist" />
         <item itemvalue="Application.WeFight" />
-        <item itemvalue="Application.tmp" />
-        <item itemvalue="Application.LinkListNumberSumList" />
-        <item itemvalue="Application.TreeBinaryToDoubleLinkList" />
-        <item itemvalue="Application.ListReverseKElements" />
+        <item itemvalue="Application.SortHeap" />
+        <item itemvalue="Application.Tree" />
+        <item itemvalue="Application.LinkedListDoublyReverse" />
       </list>
     </recent_temporary>
   </component>
@@ -348,6 +247,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535215957418</updated>
+      <workItem from="1568863096167" duration="7316000" />
+      <workItem from="1568978133947" duration="1939000" />
+      <workItem from="1570117729941" duration="1010000" />
+      <workItem from="1571223944571" duration="3000" />
+      <workItem from="1571328123502" duration="600000" />
+      <workItem from="1571416051321" duration="2652000" />
+      <workItem from="1571455488884" duration="310000" />
+      <workItem from="1571472812726" duration="822000" />
+      <workItem from="1573980544483" duration="2604000" />
+      <workItem from="1574876373102" duration="5256000" />
     </task>
     <task id="LOCAL-00001" summary="osrtings">
       <created>1542093121910</created>
@@ -359,36 +268,21 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="56" y="-14" width="1311" height="783" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29202843" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32924962" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4988161" weight="0.8346095" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39969373" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32924962" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5011839" side_tool="true" weight="0.3568147" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32924962" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32924962" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.24940805" />
-      <window_info anchor="right" id="Palette" order="2" />
-      <window_info anchor="right" id="Ant Build" order="3" weight="0.24940805" />
-      <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info anchor="right" id="Palette&#9;" order="5" />
-      <window_info anchor="right" id="Coverage" order="6" side_tool="true" weight="0.32991317" />
-    </layout>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="osrtings" />
@@ -397,332 +291,6 @@
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/CandidateCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-779">
-          <caret line="174" column="9" selection-start-line="174" selection-start-column="9" selection-end-line="174" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/LanguageTranslator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/Inherit2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/GCD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/HappyTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/FindAllSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/BaseClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/Genric.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/Genric.form">
-      <provider selected="true" editor-type-id="ui-designer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/MinStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="75" column="19" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/SortInsertSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/JavaTest/in/hoptec/LastKNodes.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/SortMergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-475">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/SortBubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/TestClass2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="274" column="43" lean-forward="true" selection-start-line="274" selection-start-column="43" selection-end-line="274" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/Threader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1945">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/SelectSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/TestClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/SortMergeSort2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/TrapppingRainWater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/NTimesX.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-30">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/GFG.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/TestCasearray1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="26" column="43" lean-forward="true" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/ThreadSafeExec.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="42" column="27" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/Graph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-100">
-          <caret line="69" column="9" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/Grp.java" />
-    <entry file="jar:///opt/jdk/jdk-12.0.1/lib/src.zip!/java.base/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1309">
-          <caret line="75" column="38" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/GraphDijKastra.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="85" column="44" selection-start-line="85" selection-start-column="44" selection-end-line="85" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/GraphBreathFirst.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1995">
-          <caret line="140" selection-start-line="140" selection-end-line="140" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/GraphDepthFirstSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/MatrixSpiral.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/MaxMin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaTest.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/ArrayKLargestElements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="55" selection-start-line="55" selection-end-line="55" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/QuickSort2.java" />
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/SortQuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///opt/jdk/jdk-12.0.1/lib/src.zip!/java.base/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="665" column="25" selection-start-line="665" selection-start-column="25" selection-end-line="665" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/ArrayPythagoreanTriplet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-55">
-          <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/LastKNodes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
-          <caret line="86" column="43" selection-start-line="86" selection-start-column="43" selection-end-line="86" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/TreeTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/TreeBinaryToDoubleLinkList.java" />
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/ListReverseKElements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1215">
-          <caret line="87" selection-start-line="65" selection-end-line="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///opt/jdk/jdk-12.0.1/lib/src.zip!/java.base/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="111" column="19" selection-start-line="111" selection-start-column="19" selection-end-line="111" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/tmp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/LinkListNumberSumList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hoptec/WeFight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>

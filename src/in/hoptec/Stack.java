@@ -18,7 +18,7 @@ public class Stack {
         }
         else
         {
-            tmp.right=top;
+            tmp.next =top;
             top=tmp;
         }
     }
@@ -30,7 +30,7 @@ public class Stack {
         else
         {
             int val=top.val;
-            top=top.right;
+            top=top.next;
             return val;
         }
     }
@@ -41,7 +41,7 @@ public class Stack {
         while (tmp!=null)
         {
             System.out.print(""+tmp.val+" ");
-            tmp=tmp.right;
+            tmp=tmp.next;
         }
         System.out.println("");
     }

@@ -23,11 +23,11 @@ public class LinkListNumberSumList {
             }
             else
             {
-                s.right=new Node();
-                s=s.right;
+                s.next =new Node();
+                s=s.next;
             }
             s.val=sum;
-            add(n1!=null?n1.right:null,n2!=null?n2.right:null,s,cr);
+            add(n1!=null?n1.next :null,n2!=null?n2.next :null,s,cr);
             return s;
 
         }
@@ -38,21 +38,21 @@ public class LinkListNumberSumList {
     {
 
         Node n1=new Node(7);
-        n1.right=new Node(5);
-        n1.right.right=new Node(9);
-        n1.right.right.right=new Node(4);
-        n1.right.right.right.right=new Node(6);
+        n1.next =new Node(5);
+        n1.next.next =new Node(9);
+        n1.next.next.next =new Node(4);
+        n1.next.next.next.next =new Node(6);
 
 
         Node n2=new Node(8);
-        n2.right=new Node(4);
+        n2.next =new Node(4);
 
         Node sum=add(n1,n2,null,0);
 
         while (sum!=null)
         {
             System.out.printf(" "+sum.val);
-            sum=sum.right;
+            sum=sum.next;
         }
 
 

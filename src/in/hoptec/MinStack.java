@@ -57,7 +57,7 @@ public class MinStack extends Stack{
                 }
                 System.out.print(" "+tmp.val);
 
-                tmp=tmp.right;
+                tmp=tmp.next;
             }
 
             System.out.println("--");
