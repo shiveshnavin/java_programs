@@ -106,46 +106,12 @@ public class LinkedList {
     public void swap(Node a,Node b)
     {
 
-        Node aNext=a.next;
-        Node aPrev=a.prev;
-        Node bNext=a.next;
-        Node bPrev=a.prev;
+        Node tmp=new Node(b.name,b.dur);
+        b.name=a.name;
+        b.dur=a.dur;
 
-
-        if(a.next!=b)
-        {
-            a.prev=bPrev;
-            a.next.prev=b;
-            b.prev.next=a;
-            b.next=aNext;
-        }
-        else
-        {
-
-            a.prev=b;
-            b.next=a;
-            aPrev.next=b;
-            b.prev=aPrev;
-            a.next=bNext;
-        }
-
-        if(b.next!=a)
-        {
-            a.prev.next=b;
-            a.next=bNext;
-            b.next.prev=a;
-            b.prev=aPrev;
-        }
-        else
-        {
-
-            b.prev=a;
-            bPrev.next=a;
-            b.next=aNext;
-            a.next=b;
-            aNext.prev=b;
-        }
-
+        a.dur=tmp.dur;
+        a.name=tmp.name;
 
     }
     public void sortList()

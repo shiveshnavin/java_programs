@@ -2,81 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6468532-5b04-4186-a644-6789bcd7d67f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/LinkedListDoubly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/LinkedListDoublyReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/LinkedListSingly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/LinkedListSinglyReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/MatrixChainMultiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/SortHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/songadt/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/songadt/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/songadt/SongPlaylist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/com/intellij/uiDesigner/core/HorizontalInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/com/intellij/uiDesigner/core/LayoutState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/intellij/uiDesigner/core/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/com/intellij/uiDesigner/core/Util.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/com/intellij/uiDesigner/core/VerticalInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/ArrayKLargestElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/ArrayKLargestElements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/ArrayPythagoreanTriplet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/ArrayPythagoreanTriplet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/CandidateCode$Graph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/CandidateCode$House.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/CandidateCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/CandidateCodeScanner$Graph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/CandidateCodeScanner$House.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/CandidateCodeScanner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/FindAllSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/FindAllSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/GCD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/GCD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/GFG$Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/GFG$Graph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/GFG.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/GFG.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Genric.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Genric.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Graph$Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Graph$Pair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Graph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/GraphBreathFirst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/GraphBreathFirst.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/GraphDepthFirstSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/GraphDepthFirstSearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/GraphDijKastra.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/GraphDijKastra.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/HappyTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/HappyTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/LargestElementOnRight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/LargestElementOnRight.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/LastKNodes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/LastKNodes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/LinkListNumberSumList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/LinkListNumberSumList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/ListReverseKElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/ListReverseKElements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/MaxMin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/MaxMin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/MinStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/MinStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/NTimesX.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/NTimesX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Pattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Pattern.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/RaceAroundThread$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/RaceAroundThread$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/ReverseList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/ReverseList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Sort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/SortMergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/SortMergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/SortMergeSort2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/SortMergeSort2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/SortMergeSort2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/SortMergeSort2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Stack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestCasearray1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestCasearray1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestClass$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestClass$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestClass$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestClass$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestClass2$Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestClass2$Graph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestClass2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestClass2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestClass3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestClass3$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestClass3$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestClass3$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestClass3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/TestClass3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/ThreadSafeExec$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/ThreadSafeExec$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/ThreadSafeExec$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/ThreadSafeExec$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/ThreadSafeExec.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/ThreadSafeExec.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Threader$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Threader$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Threader$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Threader$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Threader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Threader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Tree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/tmp$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/tmp$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/tmp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/tmp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/in/hoptec/LinkListNumberSumList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/LinkListNumberSumList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/in/hoptec/ListReverseKElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/ListReverseKElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/in/hoptec/MinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/MinStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/in/hoptec/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/in/hoptec/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/in/hoptec/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/in/hoptec/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/in/hoptec/songadt/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/songadt/LinkedList.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -256,7 +182,7 @@
       <workItem from="1571455488884" duration="310000" />
       <workItem from="1571472812726" duration="822000" />
       <workItem from="1573980544483" duration="2604000" />
-      <workItem from="1574876373102" duration="5256000" />
+      <workItem from="1574876373102" duration="5602000" />
     </task>
     <task id="LOCAL-00001" summary="osrtings">
       <created>1542093121910</created>
@@ -265,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542093121910</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added bits dsad proj">
+      <created>1574881965613</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574881965613</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,7 +219,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="osrtings" />
-    <option name="LAST_COMMIT_MESSAGE" value="osrtings" />
+    <MESSAGE value="added bits dsad proj" />
+    <option name="LAST_COMMIT_MESSAGE" value="added bits dsad proj" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

@@ -21,7 +21,10 @@ public class SongPlaylist {
 
         System.out.println(linkedList.findSong("passengers"));
 
-        linkedList.swap(linkedList.getSongAtPos(1),linkedList.getSongAtPos(3));
+        linkedList.swap(linkedList.getSongAtPos(0),linkedList.getSongAtPos(1));
+        linkedList.display();
+
+        linkedList.sortList();
         linkedList.display();
 
     }
