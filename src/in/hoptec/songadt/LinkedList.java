@@ -103,6 +103,12 @@ public class LinkedList {
 
     }
 
+
+    void swapByPtr(Node A,Node B) {
+
+
+    }
+
     public void swap(Node a,Node b)
     {
 

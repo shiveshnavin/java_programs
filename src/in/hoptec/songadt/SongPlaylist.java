@@ -24,8 +24,8 @@ public class SongPlaylist {
         linkedList.swap(linkedList.getSongAtPos(0),linkedList.getSongAtPos(1));
         linkedList.display();
 
-        linkedList.sortList();
-        linkedList.display();
+     //   linkedList.sortList();
+     //   linkedList.display();
 
     }
 }
