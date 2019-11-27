@@ -61,7 +61,7 @@ public class LinkedList {
 
     public void deleteAtPos(int pos)
     {
-        if(pos>=size || pos<0)
+        if(pos>size || pos<0)
         {
             System.out.println("Invalid Position");
             return;
@@ -89,7 +89,7 @@ public class LinkedList {
 
     public Node getSongAtPos(int pos)
     {
-        if(pos>=size || pos<0)
+        if(pos>size || pos<0)
         {
             System.out.println("Invalid Position");
             return null;
