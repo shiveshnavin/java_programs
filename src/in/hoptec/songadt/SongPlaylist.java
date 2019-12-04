@@ -50,7 +50,7 @@ public class SongPlaylist {
                         linkedList.deleteAtPos(sc.nextInt());
                         break;
                     case 3:
-                        System.out.println("Enter Song Name : ");
+                       System.out.println("Enter Song Name : ");sc.nextLine();
                         int pos=linkedList.findSong(sc.nextLine());
                         System.out.println(pos!=-1 ? "Found at position "+pos:"Not Found  !");;
                         break;
@@ -109,12 +109,11 @@ public class SongPlaylist {
         System.out.println("");
         System.out.println("Song at Pos 2 : "+linkedList.getSongAtPos(2));
 
-        linkedList.deleteAtPos(2);
+        linkedList.deleteAtPos(0);
         System.out.println("List after deleting song at post 2");
         linkedList.display();
 
         System.out.println("Position of song 'Faded' : "+linkedList.findSong("Faded"));
-
 
         linkedList.sortList();
         System.out.println("PlayList after sort : ");

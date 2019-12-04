@@ -75,17 +75,23 @@ public class LinkedList {
         System.out.println("Deleted song : "+node.name);
         if(node.next!=null)
         {
-            node.next.prev=node.prev;
-            node.prev.next=node.next;
+          node.next.prev=node.prev;
+        }
+        else
+        {
+            tail=node.prev;
         }
         if(node.prev!=null)
         {
             node.prev.next=node.next;
         }
+        else
+        {
+            head=node.next;
+        }
         size--;
 
     }
-
 
     public Node getSongAtPos(int pos)
     {
