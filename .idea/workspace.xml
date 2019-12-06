@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f6468532-5b04-4186-a644-6789bcd7d67f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/songadt/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/songadt/LinkedList.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/songadt/SongPlaylist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/songadt/SongPlaylist.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/in/hoptec/songadt/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/songadt/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/in/hoptec/songadt/SongPlaylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/songadt/SongPlaylist.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -188,6 +185,8 @@
       <workItem from="1573980544483" duration="2604000" />
       <workItem from="1574876373102" duration="8937000" />
       <workItem from="1575106185778" duration="1570000" />
+      <workItem from="1575427514108" duration="679000" />
+      <workItem from="1575610506936" duration="464000" />
     </task>
     <task id="LOCAL-00001" summary="osrtings">
       <created>1542093121910</created>
