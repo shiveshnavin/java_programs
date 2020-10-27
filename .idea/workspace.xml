@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6468532-5b04-4186-a644-6789bcd7d67f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/in/hoptec/AngryScholar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/hoptec/ArrayRotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/hoptec/CandyCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/hoptec/Count1sInMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/hoptec/Itv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/hoptec/LinkedListAddNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/hoptec/LinkedListMid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/hoptec/MarsStones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/hoptec/MaxRectAreaInSubseq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/hoptec/Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/hoptec/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/hoptec/RunLengthCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/hoptec/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/songadt/SongPlaylist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/songadt/SongPlaylist.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +54,7 @@
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="208" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -67,9 +80,48 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SongPlaylist">
-    <configuration name="LinkedListDoublyReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="in.hoptec.LinkedListDoublyReverse" />
+  <component name="RunManager" selected="Application.LinkedListMid">
+    <configuration name="ArrayRotate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.hoptec.ArrayRotate" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.hoptec.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Itv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.hoptec.Itv" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.hoptec.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListMid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.hoptec.LinkedListMid" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.hoptec.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarsStones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.hoptec.MarsStones" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -94,47 +146,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SongPlaylist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="in.hoptec.songadt.SongPlaylist" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="in.hoptec.songadt.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="in.hoptec.SortHeap" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="in.hoptec.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="in.hoptec.Tree" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="in.hoptec.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WeFight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="in.hoptec.WeFight" />
+    <configuration name="ReverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.hoptec.ReverseLinkedList" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -148,19 +161,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.MatrixChainMultiplication" />
-      <item itemvalue="Application.Tree" />
-      <item itemvalue="Application.LinkedListDoublyReverse" />
-      <item itemvalue="Application.SortHeap" />
-      <item itemvalue="Application.WeFight" />
-      <item itemvalue="Application.SongPlaylist" />
+      <item itemvalue="Application.Itv" />
+      <item itemvalue="Application.MarsStones" />
+      <item itemvalue="Application.ReverseLinkedList" />
+      <item itemvalue="Application.ArrayRotate" />
+      <item itemvalue="Application.LinkedListMid" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SongPlaylist" />
-        <item itemvalue="Application.WeFight" />
-        <item itemvalue="Application.SortHeap" />
-        <item itemvalue="Application.Tree" />
-        <item itemvalue="Application.LinkedListDoublyReverse" />
+        <item itemvalue="Application.LinkedListMid" />
+        <item itemvalue="Application.ArrayRotate" />
+        <item itemvalue="Application.ReverseLinkedList" />
+        <item itemvalue="Application.MarsStones" />
+        <item itemvalue="Application.Itv" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +199,29 @@
       <workItem from="1574876373102" duration="8937000" />
       <workItem from="1575106185778" duration="1570000" />
       <workItem from="1575427514108" duration="679000" />
-      <workItem from="1575610506936" duration="464000" />
+      <workItem from="1575610506936" duration="1089000" />
+      <workItem from="1575629646508" duration="74000" />
+      <workItem from="1576139793958" duration="645000" />
+      <workItem from="1576228736604" duration="1178000" />
+      <workItem from="1576643774732" duration="12000" />
+      <workItem from="1579704848160" duration="9474000" />
+      <workItem from="1580210557290" duration="568000" />
+      <workItem from="1581707320234" duration="304000" />
+      <workItem from="1583315982231" duration="668000" />
+      <workItem from="1583670354872" duration="1432000" />
+      <workItem from="1584121506164" duration="306000" />
+      <workItem from="1585726434287" duration="672000" />
+      <workItem from="1586754893241" duration="1988000" />
+      <workItem from="1588001828935" duration="607000" />
+      <workItem from="1588003067622" duration="1625000" />
+      <workItem from="1592422234976" duration="824000" />
+      <workItem from="1592550971880" duration="15000" />
+      <workItem from="1592576614500" duration="167000" />
+      <workItem from="1592800447531" duration="50000" />
+      <workItem from="1602748839295" duration="1897000" />
+      <workItem from="1602755154550" duration="201000" />
+      <workItem from="1603780564974" duration="3048000" />
+      <workItem from="1603789627105" duration="1060000" />
     </task>
     <task id="LOCAL-00001" summary="osrtings">
       <created>1542093121910</created>
@@ -240,6 +275,22 @@
     <MESSAGE value="added bits dsad proj" />
     <MESSAGE value="added bits dsad proj : sort working" />
     <option name="LAST_COMMIT_MESSAGE" value="added bits dsad proj : sort working" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/in/hoptec/Solution.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/in/hoptec/ArrayRotate.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
