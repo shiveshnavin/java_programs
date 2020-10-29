@@ -1,22 +1,25 @@
 package in.hoptec;
 
+import java.util.Arrays;
+import java.util.Base64;
+
 public class WeFight {
     public static void main(String [] args) throws Exception
     {
 
-        String messageToYou [] ={"We are Navins !",
-                "We Fight , Because Thats what we do..",
-                "Thats Who We Are ",
-                "We will win due to the simple fact that we dont quit ",
-                "And You know why ? Because We are Navins and thats what we do..",
-                "We Fight , We Fight till we win , or till we take our last breath",
-                "We Fight , We Fight Like Hell , We just dont Quit . ",
-                "Because We are Navins , Thats who we are , and Thats what we do . WE FIGHT ! ",
-                "Dont Worry ! You will make it ! God is there for you ! All you have to do is FIGHT !"};
+        String[] messageToYou ={"V2UgYXJlIE5hdmlucyAh",
+                "V2UgRmlnaHQgLCBCZWNhdXNlIFRoYXRzIHdoYXQgd2UgZG8uLg==",
+                "VGhhdHMgV2hvIFdlIEFyZSA=",
+                "V2Ugd2lsbCB3aW4gZHVlIHRvIHRoZSBzaW1wbGUgZmFjdCB0aGF0IHdlIGRvbnQgcXVpdCA=",
+                "QW5kIFlvdSBrbm93IHdoeSA/IEJlY2F1c2UgV2UgYXJlIE5hdmlucyBhbmQgdGhhdHMgd2hhdCB3ZSBkby4u",
+                "V2UgRmlnaHQgLCBXZSBGaWdodCB0aWxsIHdlIHdpbiAsIG9yIHRpbGwgd2UgdGFrZSBvdXIgbGFzdCBicmVhdGg=",
+                "V2UgRmlnaHQgLCBXZSBGaWdodCBMaWtlIEhlbGwgLCBXZSBqdXN0IGRvbnQgUXVpdCAuIA==",
+                "QmVjYXVzZSBXZSBhcmUgTmF2aW5zICwgVGhhdHMgd2hvIHdlIGFyZSAsIGFuZCBUaGF0cyB3aGF0IHdlIGRvIC4gV0UgRklHSFQgISA=",
+                "RG9udCBXb3JyeSAhIFlvdSB3aWxsIG1ha2UgaXQgISBHb2QgaXMgdGhlcmUgZm9yIHlvdSAhIEFsbCB5b3UgaGF2ZSB0byBkbyBpcyBGSUdIVCAh"};
 
         for(String msg:messageToYou)
         {
-            System.out.println(msg);
+            System.out.println(new String(Base64.getDecoder().decode(msg)));
             Thread.sleep(3000);
         }
 

@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6468532-5b04-4186-a644-6789bcd7d67f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/GraphPrims.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/LinkedListDoublyDeleteNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/LinkedListMid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/LinkedListMid.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/LinkedListSinglyReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/LinkedListSinglyReverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/LongestPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/LongestPalindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Print.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Print.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Tree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/tmp$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/tmp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/tmp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/in/hoptec/LinkedListSinglyReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/LinkedListSinglyReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/in/hoptec/LongestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/LongestPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/in/hoptec/Print.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/Print.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/in/hoptec/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/in/hoptec/tmp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/tmp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/WeFight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/WeFight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/in/hoptec/WeFight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/WeFight.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,35 +69,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GraphPrims">
+  <component name="RunManager" selected="Application.WeFight">
+    <configuration name="Genric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.hoptec.Genric" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.hoptec.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GraphPrims" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="in.hoptec.GraphPrims" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="in.hoptec.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinkedListMid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="in.hoptec.LinkedListMid" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="in.hoptec.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LongestPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="in.hoptec.LongestPalindrome" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -148,6 +122,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WeFight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.hoptec.WeFight" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.hoptec.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="tmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="in.hoptec.tmp" />
       <module name="JavaTest" />
@@ -164,18 +151,18 @@
     <list>
       <item itemvalue="Application.MatrixChainMultiplication" />
       <item itemvalue="Application.tmp" />
-      <item itemvalue="Application.LongestPalindrome" />
-      <item itemvalue="Application.LinkedListMid" />
       <item itemvalue="Application.Tree" />
       <item itemvalue="Application.GraphPrims" />
+      <item itemvalue="Application.Genric" />
+      <item itemvalue="Application.WeFight" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WeFight" />
+        <item itemvalue="Application.Genric" />
         <item itemvalue="Application.GraphPrims" />
         <item itemvalue="Application.Tree" />
         <item itemvalue="Application.tmp" />
-        <item itemvalue="Application.LinkedListMid" />
-        <item itemvalue="Application.LongestPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +212,7 @@
       <workItem from="1603780564974" duration="3048000" />
       <workItem from="1603789627105" duration="1060000" />
       <workItem from="1603821729242" duration="8498000" />
-      <workItem from="1603982247546" duration="4128000" />
+      <workItem from="1603982247546" duration="4786000" />
     </task>
     <task id="LOCAL-00001" summary="osrtings">
       <created>1542093121910</created>
