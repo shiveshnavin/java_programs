@@ -16,10 +16,11 @@ public class WeFight {
                 "QmVjYXVzZSBXZSBhcmUgTmF2aW5zICwgVGhhdHMgd2hvIHdlIGFyZSAsIGFuZCBUaGF0cyB3aGF0IHdlIGRvIC4gV0UgRklHSFQgISA=",
                 "RG9udCBXb3JyeSAhIFlvdSB3aWxsIG1ha2UgaXQgISBHb2QgaXMgdGhlcmUgZm9yIHlvdSAhIEFsbCB5b3UgaGF2ZSB0byBkbyBpcyBGSUdIVCAh"};
 
+        int normalLen = messageToYou[0].length();
         for(String msg:messageToYou)
         {
             System.out.println(new String(Base64.getDecoder().decode(msg)));
-            Thread.sleep(3000);
+            Thread.sleep(3000*(msg.length()/normalLen));
         }
 
     }
