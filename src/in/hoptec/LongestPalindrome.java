@@ -4,10 +4,8 @@ public class LongestPalindrome {
 
     public boolean checkPalindrome(String st)
     {
-        int i=0;
-        while (i++<st.length())
-        {
-            if(st.charAt(i)!=st.charAt(st.length()-i))
+        for(int i=0;i<st.length()/2;i++){
+            if(st.charAt(i)!=st.charAt(st.length()-1-i))
                 return false;
         }
         return true;
@@ -17,11 +15,22 @@ public class LongestPalindrome {
 
 
 
-        String str="ana";
-        System.out.printf(""+checkPalindrome(str));
+        String str="XABAHJXABXXBADasdafaa";
+        String largest="";
+        for(int i=0;i<str.length();i++){
+            for(int j=i;j<str.length();j++){
+                String substr=str.substring(i,j+1);
+                if(substr.length()>largest.length() && checkPalindrome(substr)){
+                    largest=substr;
+                }
+            }
+        }
 
+        System.out.println(largest);
+    }
 
-
+    public static void main(String[] args) {
+        new LongestPalindrome();
     }
 
 

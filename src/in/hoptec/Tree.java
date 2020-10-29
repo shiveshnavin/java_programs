@@ -27,17 +27,30 @@ public class Tree {
         insert(new Node(5),root);
 
         transverse(root);
-        Node v=new Node(4);
-       // System.out.println("Depth-->"+ depthOfNode(root,one,0));
-        //System.out.println("Depth-->"+ height(one,0));
-        System.out.println("");
-        delete(root,6);
-        transverse(root);
+//        Node v=new Node(4);
+//       // System.out.println("Depth-->"+ depthOfNode(root,one,0));
+//        //System.out.println("Depth-->"+ height(one,0));
+//        System.out.println("");
+//        delete(root,6);
+//        transverse(root);
+        System.out.println("\n");
+        System.out.println(depth());
 
     }
 
     public static void main(String[] args) {
         new Tree();
+    }
+
+    public int dp(Node cur){
+
+        if(cur==null)
+            return 0;
+
+        return Math.max(dp(cur.prev),dp(cur.next))+1;
+    }
+    public int depth(){
+        return dp(root);
     }
 
     public int height(Node t, int tDepth)

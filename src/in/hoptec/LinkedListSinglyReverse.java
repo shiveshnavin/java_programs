@@ -24,20 +24,19 @@ public class LinkedListSinglyReverse extends LinkedListSingly{
         top=reverse(top,null);
     }
 
-    public Node reverse(Node cur,Node prev)
-    {
-        Node newHead=null;
-        if(cur.next !=null)
-        {
-            newHead=reverse(cur.next,cur);
-        }
-        else
-        {
-            newHead=cur;
-        }
-        cur.next =prev;
-        return newHead;
-    }
 
+    // start 12:40 AM
+    // stop 12:48 AM
+    // Time 8 Mins
+    public static Node reverse(Node curr,Node prev){
+
+        Node next= curr.next;
+        curr.next=prev;
+        if(next==null)
+        {
+            return curr;
+        }
+        return reverse(next,curr);
+    }
 
 }

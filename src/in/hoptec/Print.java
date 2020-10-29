@@ -16,4 +16,14 @@ public class Print {
         }
         System.out.println(sbs.toString());
     }
+
+    public static void print(Node n){
+        StringBuilder sbs=new StringBuilder();
+        while (n!=null){
+            sbs.append(n.val).append(" ");
+            n=n.next;
+        }
+        Print.print(sbs.toString());
+    }
+
 }

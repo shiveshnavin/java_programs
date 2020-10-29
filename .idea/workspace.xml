@@ -2,20 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6468532-5b04-4186-a644-6789bcd7d67f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/AngryScholar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/ArrayRotate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/CandyCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/Count1sInMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/Itv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/LinkedListAddNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/LinkedListMid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/MarsStones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/MaxRectAreaInSubseq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/Print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/ReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/RunLengthCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/hoptec/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/hoptec/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/hoptec/GraphPrims.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/hoptec/LinkedListDoublyDeleteNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/LinkedListMid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/LinkedListMid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/LinkedListSinglyReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/LinkedListSinglyReverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/LongestPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/LongestPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Print.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Print.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Tree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/tmp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/tmp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/tmp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/in/hoptec/LinkedListSinglyReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/LinkedListSinglyReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/in/hoptec/LongestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/LongestPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/in/hoptec/Print.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/Print.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/in/hoptec/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/in/hoptec/tmp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/tmp.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,22 +82,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LinkedListMid">
-    <configuration name="ArrayRotate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="in.hoptec.ArrayRotate" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="in.hoptec.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Itv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="in.hoptec.Itv" />
+  <component name="RunManager" selected="Application.GraphPrims">
+    <configuration name="GraphPrims" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.hoptec.GraphPrims" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -120,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MarsStones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="in.hoptec.MarsStones" />
+    <configuration name="LongestPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.hoptec.LongestPalindrome" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -146,8 +135,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="in.hoptec.ReverseLinkedList" />
+    <configuration name="Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.hoptec.Tree" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.hoptec.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.hoptec.tmp" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -161,19 +163,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.MatrixChainMultiplication" />
-      <item itemvalue="Application.Itv" />
-      <item itemvalue="Application.MarsStones" />
-      <item itemvalue="Application.ReverseLinkedList" />
-      <item itemvalue="Application.ArrayRotate" />
+      <item itemvalue="Application.tmp" />
+      <item itemvalue="Application.LongestPalindrome" />
       <item itemvalue="Application.LinkedListMid" />
+      <item itemvalue="Application.Tree" />
+      <item itemvalue="Application.GraphPrims" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GraphPrims" />
+        <item itemvalue="Application.Tree" />
+        <item itemvalue="Application.tmp" />
         <item itemvalue="Application.LinkedListMid" />
-        <item itemvalue="Application.ArrayRotate" />
-        <item itemvalue="Application.ReverseLinkedList" />
-        <item itemvalue="Application.MarsStones" />
-        <item itemvalue="Application.Itv" />
+        <item itemvalue="Application.LongestPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -222,6 +224,8 @@
       <workItem from="1602755154550" duration="201000" />
       <workItem from="1603780564974" duration="3048000" />
       <workItem from="1603789627105" duration="1060000" />
+      <workItem from="1603821729242" duration="8498000" />
+      <workItem from="1603982247546" duration="4128000" />
     </task>
     <task id="LOCAL-00001" summary="osrtings">
       <created>1542093121910</created>
@@ -288,6 +292,11 @@
           <url>file://$PROJECT_DIR$/src/in/hoptec/ArrayRotate.java</url>
           <line>17</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/in/hoptec/GraphPrims.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
