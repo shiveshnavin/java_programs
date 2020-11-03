@@ -14,7 +14,7 @@ public class ArrayRotate {
         for (int i = N - 1; i >= 0; i--) {
             int npos = i + k;
             if (npos >= N) {
-                Print.print(N,i,N-1-i);
+                PrintUtil.print(N,i,N-1-i);
                 karr[N - 1 - i] = arr[i];
             } else {
                 arr[i+k] = arr[i];
@@ -25,7 +25,7 @@ public class ArrayRotate {
             arr[i] = karr[k-i-1];
         }
 
-        Print.print(Arrays.toString(arr));
+        PrintUtil.print(Arrays.toString(arr));
 
     }
 }

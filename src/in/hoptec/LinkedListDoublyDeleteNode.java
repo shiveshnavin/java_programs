@@ -1,7 +1,5 @@
 package in.hoptec;
 
-import java.util.LinkedList;
-
 public class LinkedListDoublyDeleteNode {
 
     public static Node delete(Node root, int val) {
@@ -57,14 +55,14 @@ public class LinkedListDoublyDeleteNode {
 
         Node root = n;
 
-        Print.print(root);
+        PrintUtil.print(root);
 
         root=delete(root,1);
-        Print.print(root);
+        PrintUtil.print(root);
 
 
         root=delete(root,6);
-        Print.print(root);
+        PrintUtil.print(root);
 
 
     }

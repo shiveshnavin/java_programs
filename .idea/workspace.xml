@@ -2,9 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6468532-5b04-4186-a644-6789bcd7d67f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/in/hoptec/ClimbingLeaderBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/hoptec/KthMaxElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/hoptec/NonDivisibleSubset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/hoptec/RegexMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/hoptec/SortHeapMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/hoptec/StringReverseKeepSpecialChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/hoptec/StringReverseWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/WeFight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/WeFight.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/in/hoptec/WeFight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/WeFight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/ArrayRotate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/ArrayRotate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/GraphPrims.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/GraphPrims.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/LinkedListDoublyDeleteNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/LinkedListDoublyDeleteNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/LinkedListMid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/LinkedListMid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Print.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/Sort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/tmp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/in/hoptec/tmp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/in/hoptec/ArrayRotate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/ArrayRotate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/in/hoptec/GraphPrims.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/GraphPrims.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/in/hoptec/LinkedListDoublyDeleteNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/LinkedListDoublyDeleteNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/in/hoptec/LinkedListMid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/LinkedListMid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/in/hoptec/Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/LoopPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/in/hoptec/Print.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/PrintUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/in/hoptec/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/in/hoptec/tmp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/hoptec/tmp.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,22 +90,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WeFight">
-    <configuration name="Genric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="in.hoptec.Genric" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="in.hoptec.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GraphPrims" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="in.hoptec.GraphPrims" />
+  <component name="RunManager" selected="Application.SortHeapMin">
+    <configuration name="KthMaxElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.hoptec.KthMaxElement" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="in.hoptec.Tree" />
+    <configuration name="RegexMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.hoptec.RegexMatch" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -122,8 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WeFight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="in.hoptec.WeFight" />
+    <configuration name="SortHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.hoptec.SortHeap" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -135,8 +143,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="in.hoptec.tmp" />
+    <configuration name="SortHeapMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.hoptec.SortHeapMin" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.hoptec.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringReverseKeepSpecialChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.hoptec.StringReverseKeepSpecialChars" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -150,19 +171,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.MatrixChainMultiplication" />
-      <item itemvalue="Application.tmp" />
-      <item itemvalue="Application.Tree" />
-      <item itemvalue="Application.GraphPrims" />
-      <item itemvalue="Application.Genric" />
-      <item itemvalue="Application.WeFight" />
+      <item itemvalue="Application.StringReverseKeepSpecialChars" />
+      <item itemvalue="Application.RegexMatch" />
+      <item itemvalue="Application.KthMaxElement" />
+      <item itemvalue="Application.SortHeap" />
+      <item itemvalue="Application.SortHeapMin" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WeFight" />
-        <item itemvalue="Application.Genric" />
-        <item itemvalue="Application.GraphPrims" />
-        <item itemvalue="Application.Tree" />
-        <item itemvalue="Application.tmp" />
+        <item itemvalue="Application.SortHeapMin" />
+        <item itemvalue="Application.KthMaxElement" />
+        <item itemvalue="Application.SortHeap" />
+        <item itemvalue="Application.RegexMatch" />
+        <item itemvalue="Application.StringReverseKeepSpecialChars" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +233,12 @@
       <workItem from="1603780564974" duration="3048000" />
       <workItem from="1603789627105" duration="1060000" />
       <workItem from="1603821729242" duration="8498000" />
-      <workItem from="1603982247546" duration="4786000" />
+      <workItem from="1603982247546" duration="5803000" />
+      <workItem from="1604155951531" duration="3576000" />
+      <workItem from="1604245331289" duration="2683000" />
+      <workItem from="1604304976554" duration="1420000" />
+      <workItem from="1604383222460" duration="10000" />
+      <workItem from="1604413001902" duration="5950000" />
     </task>
     <task id="LOCAL-00001" summary="osrtings">
       <created>1542093121910</created>

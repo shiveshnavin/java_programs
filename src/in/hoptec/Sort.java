@@ -3,7 +3,7 @@ package in.hoptec;
 public abstract class Sort {
 
 
-    public int arr[] ={12, 11, 13, 5, 6, 7}; ;
+    public int arr[] = {7,2,5,6,8,9,3,4,1};//{12, 11, 13, 5, 6, 7}; ;
     public int n=arr.length;
 
     public Sort()

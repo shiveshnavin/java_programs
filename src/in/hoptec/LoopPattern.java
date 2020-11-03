@@ -1,6 +1,6 @@
 package in.hoptec;
 
-public class Pattern {
+public class LoopPattern {
 
 
     public static void l(String pr)
@@ -8,7 +8,7 @@ public class Pattern {
         System.out.print(""+pr);
     }
 
-    public Pattern(int n)
+    public LoopPattern(int n)
     {
         /*
 input : 4

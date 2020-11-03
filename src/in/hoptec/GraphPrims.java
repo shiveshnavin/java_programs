@@ -74,11 +74,11 @@ public class GraphPrims {
         }
 
         System.out.print(" MST -> ");
-        Print.print(parent);
+        PrintUtil.print(parent);
 
 
         System.out.print(" Dist -> ");
-        Print.print(dist);
+        PrintUtil.print(dist);
 
     }
 

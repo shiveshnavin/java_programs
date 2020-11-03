@@ -1,8 +1,6 @@
 package in.hoptec;
 
-import java.util.Objects;
-
-public class Print {
+public class PrintUtil {
 
     public static void print(Object...objs){
         StringBuilder sbs=new StringBuilder();
@@ -23,7 +21,7 @@ public class Print {
             sbs.append(n.val).append(" ");
             n=n.next;
         }
-        Print.print(sbs.toString());
+        PrintUtil.print(sbs.toString());
     }
 
 }

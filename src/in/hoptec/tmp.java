@@ -1,9 +1,5 @@
 package in.hoptec;
 
-import java.util.*;
-import java.util.Stack;
-import java.util.function.Consumer;
-
 public class  tmp {
 
 
@@ -20,7 +16,7 @@ public class  tmp {
         root.next.next.next.next.next.next=new Node(7);
         root.next.next.next.next.next.next.next=new Node(8);
 
-        Print.print(root);
+        PrintUtil.print(root);
         midElement(root,1);
 
     }

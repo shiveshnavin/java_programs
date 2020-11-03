@@ -24,7 +24,7 @@ public class LinkedListMid {
 
         int dept =  printmid(cur.next,curDepth+1);
         if(dept/2+1 == curDepth){
-            Print.print(cur.val);
+            PrintUtil.print(cur.val);
         }
         return dept;
     }
