@@ -1,6 +1,6 @@
 package in.hoptec;
 
-public class MinStack extends Stack{
+public class MinStack extends StackImpl {
 
 
     int minEle;
@@ -68,7 +68,7 @@ public class MinStack extends Stack{
     public static void main(String args[])
     {
 
-        Stack s=new MinStack();
+        StackImpl s=new MinStack();
         s.push(100);
         s.push(23);
         s.printAll();

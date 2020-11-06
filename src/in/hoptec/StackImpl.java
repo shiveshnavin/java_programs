@@ -1,10 +1,10 @@
 package in.hoptec;
 
-public class Stack {
+public class StackImpl {
 
     protected Node top;
 
-    public Stack()
+    public StackImpl()
     {
 
     }

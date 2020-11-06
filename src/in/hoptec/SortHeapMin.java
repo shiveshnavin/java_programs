@@ -1,6 +1,6 @@
 package in.hoptec;
 
-public class SortHeapMin extends Sort{
+public class SortHeapMin extends SortHeap{
 
     public void swap(int [] arr,int lx,int rx){
         int tmp=arr[lx];

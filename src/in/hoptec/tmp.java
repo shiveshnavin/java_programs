@@ -7,17 +7,8 @@ public class  tmp {
 
     public static void main(String[] args) {
 
-        Node root=new Node(1);
-        root.next=new Node(2);
-        root.next.next=new Node(3);
-        root.next.next.next=new Node(4);
-        root.next.next.next.next=new Node(5);
-        root.next.next.next.next.next=new Node(6);
-        root.next.next.next.next.next.next=new Node(7);
-        root.next.next.next.next.next.next.next=new Node(8);
-
-        PrintUtil.print(root);
-        midElement(root,1);
+        ex x=new ex();
+        Object ex2=x.clone();
 
     }
 
@@ -33,6 +24,38 @@ public class  tmp {
         }
 
         return depth;
+    }
+
+
+    public static class ex {
+
+        public ex(){
+
+        }
+
+        final public void x(){
+
+        }
+
+        @Override
+        public ex clone(){
+            return null;
+        }
+
+    }
+
+
+    public static class ex2 extends ex {
+
+        public ex2(){
+
+        }
+
+        final public void x(int y){
+
+        }
+
+
     }
 
 }
