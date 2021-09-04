@@ -25,6 +25,10 @@ public class BaseClass {
             name="Mammal";
         }
 
+        public Mammal bleh(){
+            return null;
+        }
+
         public void sound() {
 
             l("->"+name+ " is making Sound");
@@ -37,6 +41,10 @@ public class BaseClass {
         public Dog()
         {
             name="Dog";
+        }
+
+        public Dog bleh(){
+            return null;
         }
 
         public void sound() {
