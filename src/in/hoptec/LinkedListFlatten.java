@@ -1,9 +1,11 @@
 package in.hoptec;
 
+import java.io.Serializable;
+
 // https://www.geeksforgeeks.org/flattening-a-linked-list/
 public class LinkedListFlatten {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
 
         /* Let us create the following linked list
             5 -> 10 -> 19 -> 28
@@ -44,6 +46,7 @@ public class LinkedListFlatten {
 
         head = flat(head);
 
+        System.out.println("OK");
         while (head!=null){
             System.out.println(head.val);
             head = head.list;

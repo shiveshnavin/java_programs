@@ -14,4 +14,11 @@ public class Node {
 
     }
 
+    public void setVal(int va){
+        this.val = va;
+    }
+
+    public int getVal() {
+        return val;
+    }
 }
