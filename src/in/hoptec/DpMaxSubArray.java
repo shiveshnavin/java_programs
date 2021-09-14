@@ -22,6 +22,7 @@ public class DpMaxSubArray {
 
     public static void main(String[] args) {
          maxSubArray(new int[]{-2,1,-3,4,-1,2,1,-5,4}) ; // should be 6
+        maxSubArray(new int[]{-2, -3, 4, -1, -2, 1, 5, -3}) ; // should be 7
     }
 
     public static int maxSubArray(int[] arr) {
@@ -39,7 +40,7 @@ public class DpMaxSubArray {
             if(sr[i] > sr[maxR]){
                 maxR = i;
             }
-            if(sr[i]==0){
+            if(sr[i]<=0){
                 maxL = i + 1;
             }
         }
