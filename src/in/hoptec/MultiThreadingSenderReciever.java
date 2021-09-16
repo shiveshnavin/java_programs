@@ -29,7 +29,6 @@ public class MultiThreadingSenderReciever {
                         good.notify();
 
                     }
-
                     synchronized (good) {
                         try {
                             good.wait();

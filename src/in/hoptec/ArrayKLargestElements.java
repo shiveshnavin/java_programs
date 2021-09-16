@@ -1,6 +1,7 @@
 package in.hoptec;
 
-import java.util.Scanner;
+import java.lang.reflect.Array;
+import java.util.*;
 
 public class ArrayKLargestElements {
 
@@ -34,19 +35,45 @@ public class ArrayKLargestElements {
 
     public static void main(String [] args)
     {
-        Scanner s=new Scanner(System.in);
-        int T=s.nextInt();
-        while (T-->0)
-        {
-            int N=s.nextInt();
-            int K=s.nextInt();
-            int [] array=new int[N];
-            while (N-->0)
-            {
-                array[N]=s.nextInt();
+//        Scanner s=new Scanner(System.in);
+//        int T=s.nextInt();
+//        while (T-->0)
+//        {
+//            int N=s.nextInt();
+//            int K=s.nextInt();
+//            int [] array=new int[N];
+//            while (N-->0)
+//            {
+//                array[N]=s.nextInt();
+//            }
+//            kl(array,K);
+//        }
+
+        solveWithQ(new Integer[]{2,7,1,3,9,12,55,8});
+    }
+
+    public static void solveWithQ(Integer arr[]){
+
+        Queue<Integer> s = new ArrayDeque<>(3);
+        ArrayList<Integer> ss = new ArrayList<>(Arrays.asList(arr));
+        Integer t = ss.stream().reduce(0,(curTtl,curEle)->{
+            return Math.max(curEle,curTtl);
+        });
+        System.out.println("Agg "+t);
+        int curMax = 0;
+        int i=0;
+        while (i<arr.length){
+            if(curMax < arr[i]){
+                curMax = arr[i];
+                s.add(curMax);
+                if(s.size()>3){
+                    s.remove();
+                }
             }
-            kl(array,K);
+            i++;
         }
+
+        System.out.println("QQ "+s.peek());
     }
 }
 /*
