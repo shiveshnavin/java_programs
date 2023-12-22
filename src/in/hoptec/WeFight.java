@@ -1,6 +1,5 @@
 package in.hoptec;
 
-import java.util.Base64;
 
 public class WeFight {
     public static void main(String[] args) throws Exception {
@@ -21,7 +20,7 @@ public class WeFight {
 
         int normalLen = messageToYou[0].length();
         for (String msg : messageToYou) {
-            System.out.println(new String(Base64.getDecoder().decode(msg)));
+            System.out.println(new String(java.util.Base64.getDecoder().decode(msg)));
             Thread.sleep(3000 * (msg.length() / normalLen));
         }
 
