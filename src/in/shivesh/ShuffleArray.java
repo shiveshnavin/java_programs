@@ -1,6 +1,9 @@
 package in.shivesh;
 
 
+import java.util.HashMap;
+import java.util.Map;
+
 /**
  https://leetcode.com/problems/shuffle-an-array/
  Given an integer array nums, design an algorithm to randomly shuffle the array. All permutations of the array should be equally likely as a result of the shuffling.
@@ -15,7 +18,7 @@ class ShuffleArray {
 
     int [] nums;
     int [] cur;
-    public Solution(int[] nums) {
+    public ShuffleArray(int[] nums) {
         this.nums = nums;
         this.reset();
     }
@@ -30,12 +33,8 @@ class ShuffleArray {
 
     public int[] shuffle() {
         int [] nums = this.cur;
-        Map<Integer, Integer> s = new HashMap();
         for(int i=0;i<nums.length;i++){
             int r = (int) Math.floor(Math.random() * nums.length);
-            if(s.containsKey(r)){
-                continue;
-            }
             int tmp = nums[r];
             nums[r] = nums[i];
             nums[i] = tmp;
