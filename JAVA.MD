@@ -95,7 +95,12 @@ This guide covers essential **Java features (11 to 21)** and **Spring Boot updat
 * Structured Concurrency
 * Record Patterns
 * Scoped Values (alternative to ThreadLocal)
-
+```
+  public final static ScopedValue<User> LOGGED_IN_USER = ScopedValue.newInstance();
+  ScopedValue.where(LOGGED_IN_USER, user.get())
+                .run(() -> controller.processRequest(request, response));
+  User loggedInUser = Server.LOGGED_IN_USER.get();
+```
 ---
 
 ## 🟢 Spring Boot Upgrades (2.5 → 3.x)
