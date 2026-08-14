@@ -3,7 +3,7 @@ package in.shivesh;
 // https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1
 
 class KnapSack01 {
-    public int knapsack(int W, int val[], int wt[]) {
+    public int knapsackTopDown(int W, int val[], int wt[]) {
 
         int[][] dp = new int[wt.length+1][W+1];
 
@@ -71,4 +71,47 @@ class KnapSack01 {
 
 
     }
+
+
+
+
+
+
+
+
+
+    int dp[][];
+	public int knapsackMemoization(int W, int val[], int wt[]) {
+		int n = wt.length;
+		dp = new int[n + 1][W + 1];
+		for (int i = 0; i <= n; i++) {
+			for (int j = 0; j <= W; j++) {
+				dp[i][j] = -1;
+			}
+		}
+		
+		return pick(0, val, wt, W);
+	}
+	
+	int pick(int i, int val[], int wt[], int wLeft) {
+		int n = wt.length;
+		
+		if (i >= n) {
+			return 0;
+		}
+		if (wt[i] > wLeft) {
+			return pick(i + 1, val, wt, wLeft);
+		}
+		if(dp[i][wLeft]!=-1){
+		    return dp[i][wLeft];
+		}
+		
+		int pick = val[i] + pick(i + 1, val, wt, wLeft - wt[i]);
+		int pickNot = pick(i + 1, val, wt, wLeft);
+		
+		dp[i][wLeft] = Math.max(pick, pickNot);
+		
+		return dp[i][wLeft];
+	}
+	
 }
