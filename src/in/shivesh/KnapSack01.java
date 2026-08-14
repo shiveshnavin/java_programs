@@ -3,7 +3,9 @@ package in.shivesh;
 // https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1
 
 class KnapSack01 {
-    public int knapsackTopDown(int W, int val[], int wt[]) {
+
+	//Bottom-Up + Tabulation
+    public int knapsackBottomUp(int W, int val[], int wt[]) {
 
         int[][] dp = new int[wt.length+1][W+1];
 
@@ -81,6 +83,7 @@ class KnapSack01 {
 
 
     int dp[][];
+	// Top-Down + Memoization
 	public int knapsackMemoization(int W, int val[], int wt[]) {
 		int n = wt.length;
 		dp = new int[n + 1][W + 1];
